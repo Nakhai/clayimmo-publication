@@ -87,12 +87,12 @@
  {
   "canal": "google",
   "date": "2026-11-25T10:00:00+01:00",
-  "fichier": "g-w1-v7.jpg",
+  "fichier": "g-w1.jpg",
   "format": "Post + image",
   "key": "w1-google",
   "le": null,
   "media": [
-   "media/g-w1-v7.jpg"
+   "media/g-w1.jpg"
   ],
   "note": "",
   "par": null,
@@ -103,17 +103,17 @@
   "sujet_id": "w1",
   "texte": "Vendeurs : après la signature du compromis, l'acheteur dispose de 10 jours pour se rétracter, à compter du lendemain de la notification. Nous vous accompagnons à chaque étape jusqu'à l'acte. Estimation gratuite sur clayimmo.com",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
   "date": "2026-11-27T12:30:00+01:00",
-  "fichier": "c6_retract-1-v7.jpg,c6_retract-2.jpg,c6_retract-3.jpg,c6_retract-4.jpg,c6_retract-5.jpg",
+  "fichier": "c6_retract-1.jpg,c6_retract-2.jpg,c6_retract-3.jpg,c6_retract-4.jpg,c6_retract-5.jpg",
   "format": "Carrousel 5 pages",
   "key": "w1-ig-carr",
   "le": null,
   "media": [
-   "media/c6_retract-1-v7.jpg",
+   "media/c6_retract-1.jpg",
    "media/c6_retract-2.jpg",
    "media/c6_retract-3.jpg",
    "media/c6_retract-4.jpg",
@@ -128,7 +128,7 @@
   "sujet_id": "w1",
   "texte": "Compromis signé, vente acquise ? Pas encore. Les 10 jours de rétractation en 4 points, à enregistrer avant de vendre.\n\nSource : Code de la construction et de l'habitation, article L271-1.\n\n#ClayImmo #ImmobilierParis #ImmobilierAutrement #AgenceIndépendante #Paris6",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
@@ -175,12 +175,12 @@
  {
   "canal": "linkedin",
   "date": "2026-11-23T08:15:00+01:00",
-  "fichier": "c6_retract-1-v7.jpg",
+  "fichier": "c6_retract-1.jpg",
   "format": "Post + image",
   "key": "w1-li-lun",
   "le": null,
   "media": [
-   "media/c6_retract-1-v7.jpg"
+   "media/c6_retract-1.jpg"
   ],
   "note": "",
   "par": null,
@@ -191,17 +191,17 @@
   "sujet_id": "w1",
   "texte": "Un compromis signé n'est pas encore une vente conclue.\n\nL'acquéreur non professionnel dispose de dix jours pour se rétracter, sans motif et sans pénalité (article L271-1 du Code de la construction et de l'habitation).\n\nLe point le plus souvent mal compris : ces dix jours ne courent pas à partir de la signature. Ils commencent le lendemain de la première présentation de la lettre recommandée, ou de la remise de l'acte en main propre. Si le dixième jour tombe un week-end ou un jour férié, le délai se termine le premier jour ouvrable suivant.\n\nEntre la signature et la fin du délai, il s'écoule donc plus de dix jours. Mieux vaut l'intégrer avant d'organiser un déménagement ou un nouvel achat.",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "google",
   "date": "2026-12-02T10:00:00+01:00",
-  "fichier": "g-w2-v7.jpg",
+  "fichier": "g-w2.jpg",
   "format": "Post + image",
   "key": "w2-google",
   "le": null,
   "media": [
-   "media/g-w2-v7.jpg"
+   "media/g-w2.jpg"
   ],
   "note": "",
   "par": null,
@@ -212,17 +212,17 @@
   "sujet_id": "w2",
   "texte": "Vous vendez un appartement à Paris ? Vérifiez la surface Carrez avant la mise en vente : au-delà de 5 % d'écart, l'acheteur peut demander une baisse du prix pendant un an. Estimation gratuite sur clayimmo.com",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
   "date": "2026-12-04T12:30:00+01:00",
-  "fichier": "c7_carrez-1-v7.jpg,c7_carrez-2.jpg,c7_carrez-3.jpg,c7_carrez-4.jpg,c7_carrez-5.jpg",
+  "fichier": "c7_carrez-1.jpg,c7_carrez-2.jpg,c7_carrez-3.jpg,c7_carrez-4.jpg,c7_carrez-5.jpg",
   "format": "Carrousel 5 pages",
   "key": "w2-ig-carr",
   "le": null,
   "media": [
-   "media/c7_carrez-1-v7.jpg",
+   "media/c7_carrez-1.jpg",
    "media/c7_carrez-2.jpg",
    "media/c7_carrez-3.jpg",
    "media/c7_carrez-4.jpg",
@@ -237,7 +237,7 @@
   "sujet_id": "w2",
   "texte": "Loi Carrez : 4 points à connaître avant de vendre un appartement en copropriété. À enregistrer.\n\nSources : loi du 10 juillet 1965, article 46 ; SeLoger MeilleursAgents.\n\n#ClayImmo #ImmobilierParis #ImmobilierAutrement #AgenceIndépendante #Paris6",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
@@ -284,12 +284,12 @@
  {
   "canal": "linkedin",
   "date": "2026-11-30T08:15:00+01:00",
-  "fichier": "c7_carrez-1-v7.jpg",
+  "fichier": "c7_carrez-1.jpg",
   "format": "Post + image",
   "key": "w2-li-lun",
   "le": null,
   "media": [
-   "media/c7_carrez-1-v7.jpg"
+   "media/c7_carrez-1.jpg"
   ],
   "note": "",
   "par": null,
@@ -300,17 +300,17 @@
   "sujet_id": "w2",
   "texte": "Quatre mètres carrés d'écart peuvent coûter près de 39 000 euros à un vendeur parisien.\n\nEn copropriété, la surface privative de la loi Carrez figure dans la promesse et dans l'acte. Si la surface réelle est inférieure de plus de 5 % à celle indiquée, l'acheteur peut demander une baisse du prix proportionnelle aux mètres carrés manquants (article 46 de la loi du 10 juillet 1965). Il a un an après la signature de l'acte authentique pour agir.\n\nAu prix moyen parisien de 9 670 euros le mètre carré (SeLoger MeilleursAgents, 1er septembre 2026), quatre mètres carrés représentent 38 680 euros.\n\nNotre recommandation : faire mesurer le bien par un professionnel avant la mise en vente, et revérifier un mesurage ancien ou antérieur à des travaux.",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "google",
   "date": "2026-12-09T10:00:00+01:00",
-  "fichier": "g-w3-v7.jpg",
+  "fichier": "g-w3.jpg",
   "format": "Post + image",
   "key": "w3-google",
   "le": null,
   "media": [
-   "media/g-w3-v7.jpg"
+   "media/g-w3.jpg"
   ],
   "note": "",
   "par": null,
@@ -321,17 +321,17 @@
   "sujet_id": "w3",
   "texte": "Acheteurs : le mobilier listé et valorisé dans l'acte n'entre pas dans la base des droits de mutation, à sa valeur réelle d'occasion. Une question avant d'acheter ? Contactez-nous sur clayimmo.com",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
   "date": "2026-12-11T12:30:00+01:00",
-  "fichier": "c8_meubles-1-v7.jpg,c8_meubles-2.jpg,c8_meubles-3.jpg,c8_meubles-4.jpg,c8_meubles-5.jpg",
+  "fichier": "c8_meubles-1.jpg,c8_meubles-2.jpg,c8_meubles-3.jpg,c8_meubles-4.jpg,c8_meubles-5.jpg",
   "format": "Carrousel 5 pages",
   "key": "w3-ig-carr",
   "le": null,
   "media": [
-   "media/c8_meubles-1-v7.jpg",
+   "media/c8_meubles-1.jpg",
    "media/c8_meubles-2.jpg",
    "media/c8_meubles-3.jpg",
    "media/c8_meubles-4.jpg",
@@ -346,7 +346,7 @@
   "sujet_id": "w3",
   "texte": "Meubles et frais de notaire : ce qui entre dans la liste, ce qui n'y entre pas. À enregistrer avant d'acheter meublé.\n\nSource : PAP, mars 2025.\n\n#ClayImmo #ImmobilierParis #ImmobilierAutrement #AgenceIndépendante #Paris6",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "instagram",
@@ -393,12 +393,12 @@
  {
   "canal": "linkedin",
   "date": "2026-12-07T08:15:00+01:00",
-  "fichier": "c8_meubles-1-v7.jpg",
+  "fichier": "c8_meubles-1.jpg",
   "format": "Post + image",
   "key": "w3-li-lun",
   "le": null,
   "media": [
-   "media/c8_meubles-1-v7.jpg"
+   "media/c8_meubles-1.jpg"
   ],
   "note": "",
   "par": null,
@@ -409,7 +409,7 @@
   "sujet_id": "w3",
   "texte": "Acheter meublé permet de réduire légalement la base des droits de mutation.\n\nLes droits de mutation portent sur le bien immobilier. Le mobilier vendu avec l'appartement en est exclu, à condition d'être listé et valorisé dans le compromis puis dans l'acte, à sa valeur réelle d'occasion.\n\nExemple publié par PAP : pour un prix de 250 000 euros dont 10 000 euros de mobilier, les droits sont calculés sur 240 000 euros.\n\nDeux limites. Une cuisine fixée, des placards encastrés ou des radiateurs font partie du bien. Et une valeur surévaluée ou des meubles fictifs exposent à un redressement en cas de contrôle.",
   "titre": "",
-  "rev": 2
+  "rev": 3
  },
  {
   "canal": "youtube",
@@ -563,12 +563,12 @@
  {
   "canal": "linkedin",
   "date": "2026-11-10T08:15:00+01:00",
-  "fichier": "c9_taux-1.jpg",
+  "fichier": "c9_taux-1b.jpg",
   "format": "Post + image",
   "key": "t1-li-mar",
   "le": null,
   "media": [
-   "media/c9_taux-1.jpg"
+   "media/c9_taux-1b.jpg"
   ],
   "note": "",
   "par": null,
@@ -579,7 +579,7 @@
   "sujet_id": "t1",
   "texte": "Un crédit immobilier coûte 77 euros de plus par mois qu'au troisième trimestre.\n\nSur 20 ans, le taux moyen atteint 3,76 % en novembre, contre 3,66 % en octobre et 3,26 % au troisième trimestre (Pretto, novembre 2026). Pour 300 000 euros empruntés, hors assurance, la mensualité passe de 1 703 à 1 780 euros, soit environ 18 500 euros de plus sur la durée du prêt.\n\nLa cause principale : le taux auquel la France emprunte à 10 ans a dépassé 5 % le 21 octobre, une première depuis 2002. Les taux des crédits immobiliers suivent ce repère.\n\nPour un acheteur, un budget calculé en septembre n'est plus le bon. Mieux vaut faire chiffrer sa capacité d'emprunt avant de visiter, et mettre plusieurs banques en concurrence.",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "instagram",
@@ -626,12 +626,12 @@
  {
   "canal": "google",
   "date": "2026-11-12T10:00:00+01:00",
-  "fichier": "g-w4.jpg",
+  "fichier": "g-w4b.jpg",
   "format": "Post + image",
   "key": "t1-google",
   "le": null,
   "media": [
-   "media/g-w4.jpg"
+   "media/g-w4b.jpg"
   ],
   "note": "",
   "par": null,
@@ -642,17 +642,17 @@
   "sujet_id": "t1",
   "texte": "Acheteurs : sur 20 ans, le taux moyen des crédits atteint 3,76 % en novembre (Pretto). Faites chiffrer votre budget avant de visiter. Conseils et biens à vendre sur clayimmo.com",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "instagram",
   "date": "2026-11-13T12:30:00+01:00",
-  "fichier": "c9_taux-1.jpg,c9_taux-2.jpg,c9_taux-3.jpg,c9_taux-4.jpg,c9_taux-5.jpg",
+  "fichier": "c9_taux-1b.jpg,c9_taux-2.jpg,c9_taux-3.jpg,c9_taux-4.jpg,c9_taux-5.jpg",
   "format": "Carrousel 5 pages",
   "key": "t1-ig-carr",
   "le": null,
   "media": [
-   "media/c9_taux-1.jpg",
+   "media/c9_taux-1b.jpg",
    "media/c9_taux-2.jpg",
    "media/c9_taux-3.jpg",
    "media/c9_taux-4.jpg",
@@ -667,17 +667,17 @@
   "sujet_id": "t1",
   "texte": "Crédit immobilier : ce que la hausse des taux change pour votre budget, en 4 points. À enregistrer avant de visiter.\n\nSources : Pretto, novembre 2026 ; DB France Invest ; Meilleurtaux. Calcul ClayImmo hors assurance.\n\n#ClayImmo #ImmobilierParis #ImmobilierAutrement #AgenceIndépendante #Paris6",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "linkedin",
   "date": "2026-11-16T08:15:00+01:00",
-  "fichier": "c10_conge-1.jpg",
+  "fichier": "c10_conge-1b.jpg",
   "format": "Post + image",
   "key": "t2-li-lun",
   "le": null,
   "media": [
-   "media/c10_conge-1.jpg"
+   "media/c10_conge-1b.jpg"
   ],
   "note": "",
   "par": null,
@@ -688,17 +688,17 @@
   "sujet_id": "t2",
   "texte": "Vendre un appartement loué vide, c'est d'abord le proposer à son locataire.\n\nLe congé pour vendre doit lui parvenir au moins six mois avant la fin du bail. Il indique le prix et les conditions de la vente et vaut offre de vente (article 15 de la loi du 6 juillet 1989).\n\nLe locataire a les deux premiers mois du préavis pour accepter. S'il accepte, la vente doit être signée dans les deux mois, ou dans les quatre mois s'il recourt à un prêt.\n\nDeux points souvent oubliés. Si le vendeur trouve ensuite un acquéreur à un prix ou à des conditions plus avantageux, le locataire doit être informé à nouveau et dispose d'un mois pour accepter. Et le locataire d'un meublé n'a pas ce droit de préemption.\n\nUn congé irrégulier peut être annulé : il se prépare plusieurs mois avant l'échéance.",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "google",
   "date": "2026-11-18T10:00:00+01:00",
-  "fichier": "g-w5.jpg",
+  "fichier": "g-w5b.jpg",
   "format": "Post + image",
   "key": "t2-google",
   "le": null,
   "media": [
-   "media/g-w5.jpg"
+   "media/g-w5b.jpg"
   ],
   "note": "",
   "par": null,
@@ -709,7 +709,7 @@
   "sujet_id": "t2",
   "texte": "Propriétaires bailleurs : pour vendre un logement loué vide, le congé doit parvenir au locataire au moins 6 mois avant la fin du bail, et il a priorité pour acheter. Nous préparons la vente avec vous : clayimmo.com",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "linkedin",
@@ -756,12 +756,12 @@
  {
   "canal": "instagram",
   "date": "2026-11-20T12:30:00+01:00",
-  "fichier": "c10_conge-1.jpg,c10_conge-2.jpg,c10_conge-3.jpg,c10_conge-4.jpg,c10_conge-5.jpg",
+  "fichier": "c10_conge-1b.jpg,c10_conge-2.jpg,c10_conge-3.jpg,c10_conge-4.jpg,c10_conge-5.jpg",
   "format": "Carrousel 5 pages",
   "key": "t2-ig-carr",
   "le": null,
   "media": [
-   "media/c10_conge-1.jpg",
+   "media/c10_conge-1b.jpg",
    "media/c10_conge-2.jpg",
    "media/c10_conge-3.jpg",
    "media/c10_conge-4.jpg",
@@ -776,7 +776,7 @@
   "sujet_id": "t2",
   "texte": "Vendre un appartement loué : les délais du congé pour vendre et du droit de préemption, en 4 points. À enregistrer.\n\nSources : loi du 6 juillet 1989, article 15 ; Notaires du Grand Paris.\n\n#ClayImmo #ImmobilierParis #ImmobilierAutrement #AgenceIndépendante #Paris6",
   "titre": "",
-  "rev": 1
+  "rev": 2
  },
  {
   "canal": "youtube",
