@@ -38,7 +38,7 @@
   "note": "",
   "par": null,
   "le": null,
-  "rev": 1
+  "rev": 2
  },
  {
   "id": "w1",
@@ -48,24 +48,46 @@
   "note": "",
   "par": null,
   "le": null,
-  "rev": 1
+  "rev": 2
  },
  {
   "id": "w2",
   "sujet": "Loi Carrez : au-delà de 5 % d’écart",
   "semaine": "2026-11-30",
-  "statut": "a_valider",
-  "note": "",
+  "statut": "valide",
+  "note": "Visuels refaits (couverture plus lisible, plus d'image de billets). Le Short YouTube est à republier : la routine le programme.",
   "par": null,
   "le": null,
-  "rev": 1
+  "rev": 2,
+  "imposer_statut": true
  },
  {
   "id": "w3",
   "sujet": "Les meubles et les droits de mutation",
   "semaine": "2026-12-07",
+  "statut": "valide",
+  "note": "Visuels refaits (couverture plus lisible, plus d'image de billets). Le Short YouTube est à republier : la routine le programme.",
+  "par": null,
+  "le": null,
+  "rev": 2,
+  "imposer_statut": true
+ },
+ {
+  "id": "t1",
+  "sujet": "Taux de crédit : la hausse de novembre",
+  "semaine": "2026-11-09",
   "statut": "a_valider",
-  "note": "",
+  "note": "Chiffres Pretto et Meilleurtaux relevés le 6 novembre 2026. À valider d'ici lundi 9 novembre pour une première publication mardi 10.",
+  "par": null,
+  "le": null,
+  "rev": 1
+ },
+ {
+  "id": "t2",
+  "sujet": "Vendre un appartement loué : congé et préemption",
+  "semaine": "2026-11-16",
+  "statut": "a_valider",
+  "note": "Sujet juridique : relecture de Pascale avant validation. À valider d'ici le 14 novembre.",
   "par": null,
   "le": null,
   "rev": 1
