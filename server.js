@@ -9,6 +9,7 @@ import { feed, maxQueue } from "./lib/feeder.js";
 import { hasToken, discoverChannels } from "./lib/buffer.js";
 import { publishReel } from "./lib/reel.js";
 import { startPlanned } from "./lib/planned.js";
+import { startMetrics } from "./lib/metrics.js";
 
 store.load();
 const PORT = Number(process.env.PORT || 3000);
@@ -150,5 +151,6 @@ http.createServer((req, res) => handle(req, res).catch((e) => send(res, 500, { e
   console.log(`ClayImmo moteur sur le port ${PORT}`);
   setTimeout(() => publishReel().catch((e) => console.error("[reel] échec :", e.message)), 20000);
   startPlanned();
+  startMetrics();
 });
 setInterval(() => feed().then((r) => r.log?.length && console.log(r.log.join("\n"))).catch((e) => console.error("feed:", e.message)), 10 * 60e3);
