@@ -75,21 +75,21 @@
  {
   "id": "t1",
   "sujet": "Taux de crédit : la hausse de novembre",
-  "semaine": "2026-11-09",
+  "semaine": "2026-12-14",
   "statut": "a_valider",
-  "note": "Chiffres Pretto et Meilleurtaux relevés le 6 novembre 2026. À valider d'ici lundi 9 novembre pour une première publication mardi 10.",
+  "note": "Décalé à la semaine du 14 décembre (non validé à temps). Chiffres de novembre : je les actualise vers le 10 décembre et refais la vidéo si les taux ont bougé. À valider d'ici le 11 décembre.",
   "par": null,
   "le": null,
-  "rev": 1
+  "rev": 2
  },
  {
   "id": "t2",
   "sujet": "Vendre un appartement loué : congé et préemption",
-  "semaine": "2026-11-16",
+  "semaine": "2027-01-04",
   "statut": "a_valider",
-  "note": "Sujet juridique : relecture de Pascale avant validation. À valider d'ici le 14 novembre.",
+  "note": "Décalé à la semaine du 4 janvier (non validé à temps). Sujet juridique : relecture de Pascale, puis validation d'ici le 31 décembre.",
   "par": null,
   "le": null,
-  "rev": 1
+  "rev": 2
  }
 ]
